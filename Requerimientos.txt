@@ -1,0 +1,31 @@
+Sebastian Cifuentes rodriguez
+
+Catalogo:
+
+RF1:" Gestión de Inventario Sincronizado: El sistema debe actualizar automáticamente la disponibilidad de cada artículo deportivo tras cada venta o ingreso de mercancía.
+"
+RF3: "Catálogo Dinámico: El sistema debe clasificar los productos por categorías running, fútbol, natación.
+"
+RF4:"Módulo de Personalización: La interfaz debe incluir un selector de atributos (tallas, colores, materiales) antes de pedir el pedido."
+
+Cristhian Camilo Romero rodriguez
+
+pago y login:
+
+RF2:"Rastreo de Pedidos: debe permitir al usuario consultar, mediante un número de guía, las etapas del envío (Preparación, Despacho, En Ruta, Entregado)."
+
+RF5:"Pasarela de Pagos: Integración de un flujo de compra que valide transacciones y emita comprobantes digitales automáticos.
+"
+RF6:"Autenticación de usuario: El sistema deberá permitir a los usuarios (cliente, administrador y trabajadores) iniciar sesión mediante el ingreso de correo electrónico y contraseña, validando las credenciales contra la base de datos.
+"
+Juan Esteban Benavides Acosta
+
+Login y Comunicaion:
+
+RF7: "Generación de sesión: El sistema deberá generar una sesión segura (token de acceso) al validar correctamente las credenciales, permitiendo el acceso a las funcionalidades según el rol del usuario.
+"
+RF8: "Comunicación con redes de la empresa: El sistema deberá permitir a los usuarios comunicarse con la empresa mediante enlaces directos a sus redes sociales (WhatsApp, Instagram, Facebook), facilitando consultas, soporte y atención al cliente desde la aplicación."
+
+RF9: "Calificación y comentarios: El sistema deberá permitir a los usuarios calificar productos o el servicio de la empresa y dejar comentarios, los cuales podrán ser visibles para otros usuarios dentro de la aplicación o integrados con redes sociales de la empresa."
+
+
