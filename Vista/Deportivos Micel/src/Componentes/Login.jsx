@@ -32,7 +32,7 @@ function generarToken() {
   return Array.from({ length: 32 }, () => chars[Math.floor(Math.random() * chars.length)]).join("");
 }
 
-export default function RF6_RF7_Auth() {
+export default function Login() {
   const [correo, setCorreo] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
