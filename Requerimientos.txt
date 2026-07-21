@@ -28,4 +28,10 @@ RF8: "Comunicación con redes de la empresa: El sistema deberá permitir a los u
 
 RF9: "Calificación y comentarios: El sistema deberá permitir a los usuarios calificar productos o el servicio de la empresa y dejar comentarios, los cuales podrán ser visibles para otros usuarios dentro de la aplicación o integrados con redes sociales de la empresa."
 
+Colores Principales:
+
+primario: #21FEFF
+Secundario: #F9A01B
+terciario: #5FFF00
+cuaternario: #F4F7F9
 
